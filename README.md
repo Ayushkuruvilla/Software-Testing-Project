@@ -47,7 +47,7 @@ Here's an overview of the project structure:
   Holds reports and articles related to the problem statement.
 
 - **📌 `external_models/`**  
-  - Contains Jupyter notebooks for **neighborhood stability tests** and **hill-climbing tests**.  
+  - Contains Jupyter notebooks for **neighborhood stability tests** and **hill-climbing tests** and all previous tests to test for other teams models.  
   - The subfolder `received_folder/` contains models received from another team.
 
 - **🧪 `model_1/`**  
@@ -79,8 +79,8 @@ Here's an overview of the project structure:
   - ⛰ `external_models/hill_climbing.ipynb` → Notebook for hill climbing tests.
 
 - **Neighborhood Stability Tests**
-  - 🏘 `external_models/model_1.ipynb` → Stability analysis for Model 1.
-  - 🏘 `external_models/model_2.ipynb` → Stability analysis for Model 2.
+  - 🏘 `external_models/model_1.ipynb` → Stability analysis and old tests for Model 1.
+  - 🏘 `external_models/model_2.ipynb` → Stability analysis and old tests for Model 2.
 
 - **Bias and Other Model Tests**
   - ⚖️ `testing/bias_metrics.ipynb` → Contains bias analysis.
